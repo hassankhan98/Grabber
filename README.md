@@ -8,7 +8,7 @@ git clone https://github.com/hassankhan98/Grabber.git
 
 cd Grabber
 
-pip install flag
+pip install flag<br>
 pip install emoji-country-flag
 
 python3 grabber.py
