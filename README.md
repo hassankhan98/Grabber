@@ -16,9 +16,10 @@ python3 grabber.py
 
 <h1>Contact Me:</h1>
 <p>
+=========================================================<br>
+Blog: https://geeks-blogs.blogspot.com/<br>
+Twitter: https://twitter.com/iamMR_HAK<br>
+Instagram: https://www.instagram.com/mr_h.a.k<br>
+Facebook: https://www.facebook.com/keyboardjihadi.py<br>
 =========================================================
-Blog: https://geeks-blogs.blogspot.com/
-Twitter: https://twitter.com/iamMR_HAK
-Instagram: https://www.instagram.com/mr_h.a.k
-Facebook: https://www.facebook.com/keyboardjihadi.py
-=========================================================</p>
+</p>
